@@ -1,6 +1,7 @@
 # Armor Vest Script for ESX
 
 This script allows players to use different types of armor vests in an ESX framework-based FiveM server. The vests provide armor and can be added, customized, and managed through a configuration file.
+
 **Important Note:** This is the original script and has been taken from [this source](https://qs-scripts-store.tebex.io/package/6354948). Unauthorized redistribution or modification of this script is prohibited.
 
 ## Installation
