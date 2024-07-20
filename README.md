@@ -60,7 +60,7 @@ To add a new vest to the script, follow these steps:
     armourValue = 80,            -- Amount of armour provided
     bproof_1 = 10,               -- Appearance parameter 1
     bproof_2 = 5                 -- Appearance parameter 2
-}
+   }
     ```
 
 ## Example
@@ -101,3 +101,10 @@ Config.Vests = {
 # Important Notes
 - **Item Integration:** Ensure that the vest items (e.g., pd_vest, kevlar_vest, etc.) are either added to your database or are configured in the respective inventory system used by your server.
 - **Restrictions on Redistribution:** Redistribution or modification of this script is not allowed. This includes, but is not limited to, distributing modified versions of the script or including it in other scripts without permission.
+
+## License
+This script is provided under the MIT License. Unauthorized redistribution or modification is prohibited.
+
+This updated README includes:
+- **Important Notes** about integrating the item into the database or inventory.
+- **Restrictions on Redistribution** to clarify that modifications and distribution are not permitted.
